@@ -18,4 +18,8 @@ Designed a 3D model of 6DOF quadrotor and the controller algorithm will calculat
 * Surveillance and reconnaissance: Quadrotors are employed by security, military, and law enforcement agencies for surveillance and reconnaissance tasks. They may have sensors, cameras, and other equipment to acquire data and intelligence from the air.
 
 # Flow Chart
-![img src] 
+![img src](https://github.com/sadhanasharma26/Control-System-of-Quadrotor/blob/main/ControlSystem.png)
+
+# Authors
+* [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
+
