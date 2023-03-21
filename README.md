@@ -23,3 +23,6 @@ Designed a 3D model of 6DOF quadrotor and the controller algorithm will calculat
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
 
+# License
+[Apache License 2.0]()
+
