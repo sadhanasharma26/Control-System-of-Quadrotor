@@ -20,10 +20,6 @@ Designed a 3D model of 6DOF quadrotor and the controller algorithm will calculat
 # Flow Chart
 ![img src](https://github.com/sadhanasharma26/Control-System-of-Quadrotor/blob/main/ControlSystem.png)
 
-# Status of project
-```diff
-In progress
-```
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
 
